@@ -1,2 +1,2 @@
-# BE_Computer
-Mini Projects 
+# 
+Mini Projects for BE Computer - SPPU
